@@ -1,0 +1,4 @@
+URL - https://www.googleapis.com/books/v1/volumes?q=react&key=AIzaSyBa2iZJ7pItd3__rDQQ9yBwObasZIel43Y
+
+props.textSnippet
+        <p className="modal-snippet">{props.textSnippet}</p>
